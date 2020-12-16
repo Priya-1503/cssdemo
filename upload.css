@@ -1,0 +1,18 @@
+form{
+	width:30%;
+	margin:10 auto;
+	padding:30px;
+	border:1px solid #555;
+}
+input{
+	width:100%;
+	border:1px solid #f1e1e1;
+	displaay block;
+	padding:5px 10px;
+	}
+	button{
+	border:none;
+	padding:10pxx;
+	border-radius:10px;
+	}
+	
